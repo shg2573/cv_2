@@ -1,6 +1,6 @@
 .first{
     background-color:#4682a9;
-    height: 565px;
+    height:100vh;
 }
 .main1{
     font-size: 2rem;
@@ -21,7 +21,7 @@
     padding-top: 40px;
 }
 .pic1{
-    height:394px;
+    
     justify-items: center;
 }
 .mag{
